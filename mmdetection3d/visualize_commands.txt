@@ -1,0 +1,1 @@
+python .\tools\misc\visualize_results.py .\configs\second\hv_second_secfpn_6x8_80e_kitti-3d-car.py --result .\results\second-kitti-3dcar.pkl --show-dir .\visualize\
